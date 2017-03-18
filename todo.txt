@@ -1,0 +1,3 @@
+fix size of bamazon picture
+add descriptions of each project and links
+add trivia game
